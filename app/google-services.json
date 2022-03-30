@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1013783792523",
+    "firebase_url": "https://wifiindoorpositioning-60a30-default-rtdb.firebaseio.com",
+    "project_id": "wifiindoorpositioning-60a30",
+    "storage_bucket": "wifiindoorpositioning-60a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013783792523:android:0f481ad6f312c9cb233d8e",
+        "android_client_info": {
+          "package_name": "com.example.mywifiapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013783792523-qcbcnm6qa9nhrcvcjilk239ukr996kkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBcoxHAaZ7jLhSNGg_QR8JZKftDCG7mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013783792523-qcbcnm6qa9nhrcvcjilk239ukr996kkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013783792523:android:a57cb86e6bb5755c233d8e",
+        "android_client_info": {
+          "package_name": "com.talentica.wifiindoorpositioning.wifiindoorpositioning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013783792523-qcbcnm6qa9nhrcvcjilk239ukr996kkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBcoxHAaZ7jLhSNGg_QR8JZKftDCG7mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013783792523-qcbcnm6qa9nhrcvcjilk239ukr996kkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
